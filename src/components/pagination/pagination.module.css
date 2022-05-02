@@ -1,0 +1,55 @@
+.columnName:hover {
+    cursor: pointer;
+    background-color: rgb(179, 179, 179);
+}
+
+
+.pagination {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pageNum,
+.activePageNum {
+    padding: 6px 6px 0 6px;
+    border: none;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 18px;
+    background-color: white;
+}
+
+.activePageNum {
+    color: #7EBC3C;
+}
+
+.pageNum:hover,
+.activePageNum:hover {
+    cursor: pointer;
+    color: green;
+}
+
+.pageNum:active,
+.activePageNum:active {
+    cursor: pointer;
+    font-size: 19px;
+}
+
+
+.paginationButton {
+    font-size: 24px;
+    border: none;
+    background-color: white;
+}
+
+.paginationButton:hover {
+    cursor: pointer;
+    color: green;
+}
+
+.paginationButton:active {
+    cursor: pointer;
+    color: #7EBC3C;
+    font-size: 25px;
+}
