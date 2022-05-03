@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-redux-table-test/static/css/main.e52b0f04.css",
+    "main.js": "/react-redux-table-test/static/js/main.6423fea9.js",
+    "index.html": "/react-redux-table-test/index.html",
+    "main.e52b0f04.css.map": "/react-redux-table-test/static/css/main.e52b0f04.css.map",
+    "main.6423fea9.js.map": "/react-redux-table-test/static/js/main.6423fea9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e52b0f04.css",
+    "static/js/main.6423fea9.js"
+  ]
+}
